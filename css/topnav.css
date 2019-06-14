@@ -1,0 +1,33 @@
+#topnav{
+	background: hsla(0,0%,0%,0.7);
+	width:100%;
+	height: 50px;
+}
+#topnav li{
+	float: left; 
+	font-size: 30px;
+	list-style-type: none;
+    text-align:center;
+	width: 100%;
+	color : white;
+	/*color: hsla(0,0%,100%,1);*/
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+#topnav ul li:hover{
+	/*background:hsla(180,80%,50%,1);*/
+	-webkit-animation-duration:3s;
+	-moz-animation-duration:3s;
+	-o-animation-duration:3s;
+	-ms-animation-duration:3s;
+	animation-duration:3s;
+
+}
+
+.toplinav {
+	margin-left: 400px;
+	margin: 0;
+
+}

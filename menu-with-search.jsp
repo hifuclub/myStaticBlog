@@ -15,7 +15,6 @@ body{background:#f0f0f0;}
 .content{max-width:260px;margin:20px right;
 min-width:100px;
 position:fixed;
-z-index:10;
 
 left:15%;}
 .filterinput{

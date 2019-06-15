@@ -25,6 +25,7 @@
                         		<jsp:include page="content/note01.jsp" />
                         		<jsp:include page="content/note02.jsp" />
                         		<jsp:include page="content/note02_04.jsp" />
+                        		<jsp:include page="content/note02_06.jsp" />
 
 
                           

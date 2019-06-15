@@ -64,7 +64,7 @@ $(function(){
 <script src="/gg_bd_ad_720x90.js" type="text/javascript"></script>
 <script src="/follow.js" type="text/javascript"></script>
 </div>
-<div class="content">
+<div class="content hidden-xs">
 
 	<div id="jquery-accordion-menu" class="jquery-accordion-menu red">
 		<div class="jquery-accordion-menu-header" id="form"></div>

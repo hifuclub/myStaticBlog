@@ -35,7 +35,8 @@
                                                     <img src="http://pt2wwev3y.bkt.clouddn.com/title02.png" alt="啾~"></div>
                                                 <div class="info">
                                                     <p>
-														朋友拜托我的一个项目
+														朋友拜托我的一个项目</br></br>
+									点击了解详情
 													</p>
                                                 </div>
                                             </a>
@@ -52,7 +53,7 @@
                                         <center>
                                             <h4>
                                                 <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp">
-                                                    <span class="animated_h1">sym的画廊开馆啦~</span>
+                                                    <span class="animated_h1">sym的首个开源项目CrawlerForTHBwiki上线github啦~</span>
                                                     <br>
                                                     <span class="label label-info" style="font-size:11px;"></span>
                                                 </a>
@@ -70,7 +71,7 @@
                                     <center>
                                         <i class="fa fa-tags"></i>
                                         <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" rel="tag">当下</a>
-                                        <i class="fa fa-eye"></i>html，css</center>
+                                        <i class="fa fa-eye"></i>C#</center>
                                     <p>
                                     </p>
                                     <div class="alert alert-zan mybody3">
@@ -80,8 +81,8 @@
                                         </p>
                                     </div>
                                     <div class="alert alert-zan">
-									新年好鸭，新年好鸭，sym的画廊开馆啦~ 								愿看到这个的人可以在新的一年里心想事成，学有所成。<br><br>
-											有些博文可以戳开哦~点击图片看看吧XD
+									朋友拜托我的一个项目</br></br>
+									点击了解详情
 														</div>
                                     <a class="btn btn-danger pull-right read-more btn-block" href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" title="详细阅读">阅读更多
                                         <span class="badge"></span></a>

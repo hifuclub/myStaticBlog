@@ -70,7 +70,7 @@
                                     <center>
                                         <i class="fa fa-tags"></i>
                                         <a href="https://music.163.com/#/song?id=5271923&userid=1551423136" rel="tag">当下</a>
-                                        <i class="fa fa-eye"></i>html，css</center>
+                                        <i class="fa fa-eye"></i>博客</center>
                                     <p>
                                     </p>
                                     <div class="alert alert-zan mybody3">

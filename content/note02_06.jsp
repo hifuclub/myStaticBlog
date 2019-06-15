@@ -82,7 +82,9 @@
                                         </p>
                                     </div>
                                     <div class="alert alert-zan">
-									有什么好说的呢,开吃~
+									高二时的项目,制作的目的是背单词.</br>
+														也是我第一次制作的游戏,使用脚本语言,目前完成度最高的项目.</br></br>
+														点击了解详情
 														</div>
                                     <a class="btn btn-danger pull-right read-more btn-block" href="https://github.com/hifuclub/recite-the-words-by-krkr" title="详细阅读">阅读更多
                                         <span class="badge"></span></a>

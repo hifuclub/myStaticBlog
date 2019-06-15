@@ -8,7 +8,7 @@
                                 <section class="hidden-xs">
                                     <div class="title-article">
                                         <h1>
-                                            <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" target="_blank">
+                                            <a href="https://github.com/hifuclub/recite-the-words-by-krkr" target="_blank">
                                                 <span class="animated_h1">新年sym的补档篇02</span>
                                                 <br>
                                                 <span class="label label-info" style="font-size:13px;"></span>
@@ -18,19 +18,19 @@
                                     <div class="tag-article">
                                         <span class="label label-zan">
                                             <i class="fa fa-tags"></i>
-                                            <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" rel="tag">补档</a></span>
+                                            <a href="https://github.com/hifuclub/recite-the-words-by-krkr" rel="tag">补档</a></span>
                                         <span class="label label-zan">
                                             <i class="fa fa-eye"></i>2014/07</span>
                                         <span class="label label-zan">
                                             <i class="fa fa-comments"></i>
-                                            <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp">krkr</a></span>
+                                            <a href="https://github.com/hifuclub/recite-the-words-by-krkr">krkr</a></span>
                                     </div>
                                     <div class="alert alert-zan mybody3">
                                         <p style="text-align: center;">
-                                            <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" target="_blank"></a>
+                                            <a href="https://github.com/hifuclub/recite-the-words-by-krkr" target="_blank"></a>
                                         </p>
                                         <div class="ih-item square effect bottom_to_top">
-                                            <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" target="_blank">
+                                            <a href="https://github.com/hifuclub/recite-the-words-by-krkr" target="_blank">
                                                 <div class="img">
                                                     <img src="http://pt2wwev3y.bkt.clouddn.com/title02_06.png" alt="啾~"></div>
                                                 <div class="info">
@@ -42,7 +42,7 @@
                                                 </div>
                                             </a>
                                         </div>
-                                        <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" target="_blank"></a>
+                                        <a href="https://github.com/hifuclub/recite-the-words-by-krkr" target="_blank"></a>
                                         <p>
                                         </p>
                                     </div>
@@ -53,7 +53,7 @@
                                     <div class="title-article">
                                         <center>
                                             <h4>
-                                                <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp">
+                                                <a href="https://github.com/hifuclub/recite-the-words-by-krkr">
                                                     <span class="animated_h1">新年sym的补档篇02</span>
                                                     <br>
                                                     <span class="label label-info" style="font-size:11px;"></span>
@@ -71,20 +71,20 @@
                                     </p>
                                     <center>
                                         <i class="fa fa-tags"></i>
-                                        <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" rel="tag">2015/04</a>
+                                        <a href="https://github.com/hifuclub/recite-the-words-by-krkr" rel="tag">2015/04</a>
                                         <i class="fa fa-eye"></i>krkr</center>
                                     <p>
                                     </p>
                                     <div class="alert alert-zan mybody3">
                                         <p style="text-align: center;">
-                                            <a href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" title="XD">
+                                            <a href="https://github.com/hifuclub/recite-the-words-by-krkr" title="XD">
                                                 <img src="http://pt2wwev3y.bkt.clouddn.com/title02_06.png" alt="啾~"></a>
                                         </p>
                                     </div>
                                     <div class="alert alert-zan">
 									有什么好说的呢,开吃~
 														</div>
-                                    <a class="btn btn-danger pull-right read-more btn-block" href="https://github.com/hifuclub/CrawlerForTHBwiki_By_C_sharp" title="详细阅读">阅读更多
+                                    <a class="btn btn-danger pull-right read-more btn-block" href="https://github.com/hifuclub/recite-the-words-by-krkr" title="详细阅读">阅读更多
                                         <span class="badge"></span></a>
                                 </section>
                                 <!-- 小型设备文章属性结束 --></div>
